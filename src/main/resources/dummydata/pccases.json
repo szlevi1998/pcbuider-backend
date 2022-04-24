@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Thermaltake Versa N24",
+    "manufacturer": "Thermaltake",
+    "lowestPrice": 29300,
+    "averagePrice": 32500,
+    "sizeType": "MidTower",
+    "color": "fekete",
+    "hasPSU": true,
+    "stockFansCount": 2,
+    "size": 6100
+  },
+  {
+    "name": "Cooler Master Elite Knight K350 ",
+    "manufacturer": "Cooler Master",
+    "lowestPrice": 16500,
+    "averagePrice": 16500,
+    "sizeType": "MidTower",
+    "color": "fekete",
+    "hasPSU": true,
+    "stockFansCount": 0,
+    "size": 4600
+  },
+  {
+    "name": "be quiet! Pure Base 500DX",
+    "manufacturer": "be quiet!",
+    "lowestPrice": 37600,
+    "averagePrice": 42000,
+    "sizeType": "MidTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 7800
+  },
+  {
+    "name": "NZXT H510",
+    "manufacturer": "NZXT",
+    "lowestPrice": 28000,
+    "averagePrice": 32500,
+    "sizeType": "MidTower",
+    "color": "fehér",
+    "hasPSU": false,
+    "stockFansCount": 2,
+    "size": 6600
+  },
+  {
+    "name": "Fractal Design Meshify C Mini Dark",
+    "manufacturer": "Fractal Design",
+    "lowestPrice": 43000,
+    "averagePrice": 49500,
+    "sizeType": "MiniTower",
+    "color": "szürke",
+    "hasPSU": false,
+    "stockFansCount": 2,
+    "size": 6280
+  },
+  {
+    "name": "ASUS ROG Z11",
+    "manufacturer": "ASUS",
+    "lowestPrice": 81000,
+    "averagePrice": 85400,
+    "sizeType": "MiniTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 8730
+  },
+  {
+    "name": "Fractal Design Meshify 2 XL",
+    "manufacturer": "Fractal Design",
+    "lowestPrice": 86200,
+    "averagePrice": 92500,
+    "sizeType": "FullTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 14100
+  },
+  {
+    "name": "Cougar Panzer EVO RGB",
+    "manufacturer": "Cougar",
+    "lowestPrice": 101000,
+    "averagePrice": 101000,
+    "sizeType": "FullTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 4,
+    "size": 13000
+  },
+  {
+    "name": "Cooler Master Cosmos C700M",
+    "manufacturer": "Cooler Master",
+    "lowestPrice": 245000,
+    "averagePrice": 255000,
+    "sizeType": "FullTower",
+    "color": "szürke",
+    "hasPSU": false,
+    "stockFansCount": 4,
+    "size": 15200
+  },
+  {
+    "name": "Lian Li LANCOOL II Mesh",
+    "manufacturer": "Lian Li",
+    "lowestPrice": 38700,
+    "averagePrice": 41500,
+    "sizeType": "MidTower",
+    "color": "fehér",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 11300
+  },
+  {
+    "name": "Lian Li O11-Dynamic-mini",
+    "manufacturer": "Lian Li ",
+    "lowestPrice": 41000,
+    "averagePrice": 46500,
+    "sizeType": "MidTower",
+    "color": "fehér",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 8700
+  },
+  {
+    "name": "Phanteks Eclipse P400",
+    "manufacturer": "Phanteks",
+    "lowestPrice": 13000,
+    "averagePrice": 16500,
+    "sizeType": "MidTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 7000
+  },
+  {
+    "name": "Cooler Master MasterBox 540",
+    "manufacturer": "Cooler Master",
+    "lowestPrice": 31000,
+    "averagePrice": 34300,
+    "sizeType": "MidTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 1,
+    "size": 9300
+  },
+  {
+    "name": "ASUS TUF Gaming GT301",
+    "manufacturer": "ASUS",
+    "lowestPrice": 30200,
+    "averagePrice": 36500,
+    "sizeType": "MidTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 4,
+    "size": 7200
+  },
+  {
+    "name": "Corsair 4000D Airflow",
+    "manufacturer": "Corsair",
+    "lowestPrice": 36600,
+    "averagePrice": 40300,
+    "sizeType": "MidTower",
+    "color": "fehér",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 11500
+  },
+  {
+    "name": "be quiet! SILENT BASE 802",
+    "manufacturer": "be quiet! ",
+    "lowestPrice": 58000,
+    "averagePrice": 65300,
+    "sizeType": "MidTower",
+    "color": "fehér",
+    "hasPSU": false,
+    "stockFansCount": 3,
+    "size": 14900
+  },
+  {
+    "name": "Zalman S2 ",
+    "manufacturer": "Zalman",
+    "lowestPrice": 14500,
+    "averagePrice": 17800,
+    "sizeType": "MidTower",
+    "color": "fekete",
+    "hasPSU": false,
+    "stockFansCount": 1,
+    "size": 3900
+  }
+]

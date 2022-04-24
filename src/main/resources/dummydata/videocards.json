@@ -1,0 +1,644 @@
+[
+  {
+    "name": "ASRock Radeon Phantom Gaming D RX 6900 XT 16G OC 16GB",
+    "manufacturer": "Asrock",
+    "lowestPrice": 473500,
+    "averagePrice": 528200,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6900XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "XFX Radeon Speedster SWIFT 319 Black RX 6900 XT 16GB",
+    "manufacturer": "XFX",
+    "lowestPrice": 485400,
+    "averagePrice": 527700,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6900XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "SAPPHIRE TOXIC RX 6900 XT 16GB ",
+    "manufacturer": "Sapphire",
+    "lowestPrice": 493000,
+    "averagePrice": 576000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6900XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "PowerColor Radeon Red Devil Ultimate RX 6900 XT 16GB  ",
+    "manufacturer": "PowerColor",
+    "lowestPrice": 524000,
+    "averagePrice": 649500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6900XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS TUF Radeon RX 6900 XT 16GB",
+    "manufacturer": "ASUS",
+    "lowestPrice": 582000,
+    "averagePrice": 639000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6900XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "GIGABYTE Radeon RX 6900 XT GAMING OC 16GB",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 546800,
+    "averagePrice": 630000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6900XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "PowerColor RX 6800 XT Red Dragon 16GB",
+    "manufacturer": "PowerColor",
+    "lowestPrice": 440000,
+    "averagePrice": 550000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6800XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "GIGABYTE Radeon MASTER RX 6800 XT 16GB ",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 464800,
+    "averagePrice": 506500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6800XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "MSI Radeon RX 6800 XT 16GB ",
+    "manufacturer": "MSI",
+    "lowestPrice": 497500,
+    "averagePrice": 534500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6800XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS TUF Radeon RX 6800 XT 16GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 460000,
+    "averagePrice": 506500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6800XT",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS TUF Radeon RX 6800  16GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 403800,
+    "averagePrice": 440800,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6800",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Sapphire Radeon RX 6800 16GB ",
+    "manufacturer": "Sapphire",
+    "lowestPrice": 422800,
+    "averagePrice": 435100,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6800",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "MSI Radeon Gaming X TRIO RX 6800 16GB ",
+    "manufacturer": "MSI",
+    "lowestPrice": 462000,
+    "averagePrice": 511000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6800",
+    "memorySize": 16,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "SAPPHIRE Radeon NITRO+ RX 6700 XT 12GB",
+    "manufacturer": "Sapphire",
+    "lowestPrice": 285200,
+    "averagePrice": 337000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6700XT",
+    "memorySize": 12,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS Dual Radeon RX 6700 XT 12GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 300000,
+    "averagePrice": 351000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6700XT",
+    "memorySize": 12,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS ROG STRIX Radeon RX 6700 XT 12GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 382700,
+    "averagePrice": 382700,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6700XT",
+    "memorySize": 12,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " ASRock Radeon RX 6600 XT 8GB ",
+    "manufacturer": "Asrock",
+    "lowestPrice": 192600,
+    "averagePrice": 238000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600XT",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " PowerColor Fighter Radeon RX 6600 XT 8GB ",
+    "manufacturer": "PowerColor",
+    "lowestPrice": 197800,
+    "averagePrice": 215300,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600XT",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " Gigabyte Eagle Radeon RX 6600 XT 8GB ",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 202000,
+    "averagePrice": 242500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600XT",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " MSI Mech Radeon RX 6600 XT 8GB ",
+    "manufacturer": "MSI",
+    "lowestPrice": 210500,
+    "averagePrice": 241000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600XT",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " XFX Radeon Speedster QICK 308 RX 6600 XT 8GB ",
+    "manufacturer": "XFX",
+    "lowestPrice": 240000,
+    "averagePrice": 262000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600XT",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " XFX Radeon Speedster SWFT 210 RX 6600 8GB ",
+    "manufacturer": "XFX",
+    "lowestPrice": 165000,
+    "averagePrice": 176800,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " Powercolor Fighter AMD Radeon RX 6600 8GB ",
+    "manufacturer": "PowerColor",
+    "lowestPrice": 167800,
+    "averagePrice": 200000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "SAPPHIRE PULSE Radeon RX 6600 8GB ",
+    "manufacturer": "Sapphire",
+    "lowestPrice": 177350,
+    "averagePrice": 200500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6600",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "SAPPHIRE PULSE Radeon RX 6500 XT 4GB ",
+    "manufacturer": "Sapphire",
+    "lowestPrice": 92000,
+    "averagePrice": 104500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6500 XT",
+    "memorySize": 4,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": " MSI Mech Radeon RX 6500 XT 4GB ",
+    "manufacturer": "MSI",
+    "lowestPrice": 91500,
+    "averagePrice": 101000,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6500 XT",
+    "memorySize": 4,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "GIGABYTE Radeon RX 6500 XT 4GB",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 110800,
+    "averagePrice": 121500,
+    "videoCardType": "AMD_RX",
+    "videoChipset": "RX 6500 XT",
+    "memorySize": 4,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS ROG STRIX GeForce RTX 3090 24GB",
+    "manufacturer": "ASUS",
+    "lowestPrice": 840300,
+    "averagePrice": 1018900,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3090",
+    "memorySize": 24,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "Palit GamingPro GeForce RTX 3090 24GB",
+    "manufacturer": "Palit",
+    "lowestPrice": 788500,
+    "averagePrice": 909000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3090",
+    "memorySize": 24,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "MSI Ventus GeForce RTX 3090 24GB",
+    "manufacturer": "MSI",
+    "lowestPrice": 802000,
+    "averagePrice": 931200,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3090",
+    "memorySize": 24,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "EVGA FTW3 Ultra Gaming RTX 3090 24GB",
+    "manufacturer": "EVGA",
+    "lowestPrice": 950000,
+    "averagePrice": 950000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3090",
+    "memorySize": 24,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "EVGA XC3 Ultra Gaming RTX 3080 Ti 12GB",
+    "manufacturer": "EVGA",
+    "lowestPrice": 605400,
+    "averagePrice": 730000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080 Ti",
+    "memorySize": 12,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "EVGA FTW3 Ultra Gaming RTX 3080 Ti 12GB",
+    "manufacturer": "EVGA",
+    "lowestPrice": 650000,
+    "averagePrice": 755000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080 Ti",
+    "memorySize": 12,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "ZOTAC GeForce Trinity RTX 3080 Ti OC 12GB",
+    "manufacturer": "Zotac",
+    "lowestPrice": 602500,
+    "averagePrice": 630000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080 Ti",
+    "memorySize": 12,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "Inno 3D ICHILL Black RTX 3080 Ti OC 12GB",
+    "manufacturer": "Inno3D",
+    "lowestPrice": 605600,
+    "averagePrice": 675000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080 Ti",
+    "memorySize": 12,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "Palit GamingPro RTX 3080 10GB",
+    "manufacturer": "Palit",
+    "lowestPrice": 408600,
+    "averagePrice": 480200,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080",
+    "memorySize": 10,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "Gainward Phantom RTX 3080 10GB",
+    "manufacturer": "Gainward",
+    "lowestPrice": 412700,
+    "averagePrice": 515600,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080",
+    "memorySize": 10,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "GIGABYTE TURBO RTX 3080 10GB",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 470600,
+    "averagePrice": 523300,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080",
+    "memorySize": 10,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "EVGA FTW3 ULTRA Gaming RTX 3080 10GB",
+    "manufacturer": "EVGA",
+    "lowestPrice": 522800,
+    "averagePrice": 580000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080",
+    "memorySize": 10,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "ASUS White ROG STRIX RTX 3080 10GB",
+    "manufacturer": "ASUS",
+    "lowestPrice": 533600,
+    "averagePrice": 566700,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3080",
+    "memorySize": 10,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "GIGABYTE GeForce VISION RTX 3070 Ti 8GB OC",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 328200,
+    "averagePrice": 380000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3070 Ti",
+    "memorySize": 8,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "MSI Ventus 3X GeForce RTX 3070 Ti 8GB OC",
+    "manufacturer": "MSI",
+    "lowestPrice": 328200,
+    "averagePrice": 380000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3070 Ti",
+    "memorySize": 8,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "Zotac Geforce Trinity GeForce RTX 3070 Ti 8GB OC",
+    "manufacturer": "Zotac",
+    "lowestPrice": 341600,
+    "averagePrice": 393000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3070 Ti",
+    "memorySize": 8,
+    "memoryType": "GDDR6X"
+  },
+  {
+    "name": "Manli GeForce RTX 3070 8GB ",
+    "manufacturer": "Manli",
+    "lowestPrice": 288400,
+    "averagePrice": 317200,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3070 ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "GIGABYTE Aourus Master GeForce RTX 3070 8GB ",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 332200,
+    "averagePrice": 365000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3070 ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Noctua GeForce RTX 3070 8GB ",
+    "manufacturer": "Noctua",
+    "lowestPrice": 360000,
+    "averagePrice": 382400,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3070 ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "GIGABYTE Aourus Master GeForce RTX 3070 8GB ",
+    "manufacturer": "MSI",
+    "lowestPrice": 332200,
+    "averagePrice": 365000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3070 ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "MSI GeForce RTX 3060 Ti 8GB ",
+    "manufacturer": "MSI",
+    "lowestPrice": 250000,
+    "averagePrice": 293200,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3060 Ti ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "GIGABYTE EAGLE GeForce RTX 3060 Ti 8GB ",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 252800,
+    "averagePrice": 290000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3060 Ti ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Zotac Twin Edge RTX 3060 Ti 8GB ",
+    "manufacturer": "Zotac",
+    "lowestPrice": 252800,
+    "averagePrice": 290000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3060 Ti ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Palit StormX RTX 3060 12GB ",
+    "manufacturer": "Palit",
+    "lowestPrice": 190700,
+    "averagePrice": 201000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3060 ",
+    "memorySize": 12,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Gainward Pegasus RTX 3060 12GB ",
+    "manufacturer": "Gainward",
+    "lowestPrice": 190700,
+    "averagePrice": 201000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3060 ",
+    "memorySize": 12,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Asus Phoenix Geforce RTX 3060 12GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 196200,
+    "averagePrice": 222800,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3060 ",
+    "memorySize": 12,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS TUF RTX 3060 OC 12GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 236800,
+    "averagePrice": 260350,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3060 ",
+    "memorySize": 12,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Palit GeForce RTX 3050 8GB ",
+    "manufacturer": "Palit",
+    "lowestPrice": 144000,
+    "averagePrice": 192000,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3050 ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Gainward Ghost GeForce RTX 3050 8GB ",
+    "manufacturer": "Gainward",
+    "lowestPrice": 150000,
+    "averagePrice": 155800,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3050 ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS ROG STRIX GeForce RTX 3050 8GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 217000,
+    "averagePrice": 229900,
+    "videoCardType": "NVIDIA_RTX",
+    "videoChipset": "RTX 3050 ",
+    "memorySize": 8,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "ASUS GeForce GTX 1660 SUPER OC 6GB ",
+    "manufacturer": "ASUS",
+    "lowestPrice": 141200,
+    "averagePrice": 158500,
+    "videoCardType": "NVIDIA_GTX",
+    "videoChipset": "GTX 1660 Super",
+    "memorySize": 6,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "MSI Ventus GTX 1660 SUPER OC 6GB ",
+    "manufacturer": "MSI",
+    "lowestPrice": 196700,
+    "averagePrice": 214000,
+    "videoCardType": "NVIDIA_GTX",
+    "videoChipset": "GTX 1660 Super",
+    "memorySize": 6,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Inno3D TWIN GTX 1660 SUPER OC 6GB ",
+    "manufacturer": "Inno3D",
+    "lowestPrice": 157800,
+    "averagePrice": 170500,
+    "videoCardType": "NVIDIA_GTX",
+    "videoChipset": "GTX 1660 Super",
+    "memorySize": 6,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Palit STORMX GTX 1660 Ti OC 6GB ",
+    "manufacturer": "Palit",
+    "lowestPrice": 137400,
+    "averagePrice": 167500,
+    "videoCardType": "NVIDIA_GTX",
+    "videoChipset": "GTX 1660 Ti",
+    "memorySize": 6,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "GIGABYTE Windforce GTX 1660 Ti OC 6GB ",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 142500,
+    "averagePrice": 158700,
+    "videoCardType": "NVIDIA_GTX",
+    "videoChipset": "GTX 1660 Ti",
+    "memorySize": 6,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Zotac Geforce GTX 1650 OC 4GB ",
+    "manufacturer": "Zotac",
+    "lowestPrice": 79000,
+    "averagePrice": 92500,
+    "videoCardType": "NVIDIA_GTX",
+    "videoChipset": "GTX 1650",
+    "memorySize": 4,
+    "memoryType": "GDDR6"
+  },
+  {
+    "name": "Gainward Ghost GTX 1650 OC 4GB ",
+    "manufacturer": "Zotac",
+    "lowestPrice": 86800,
+    "averagePrice": 106700,
+    "videoCardType": "NVIDIA_GTX",
+    "videoChipset": "GTX 1650",
+    "memorySize": 4,
+    "memoryType": "GDDR6"
+  }
+]
+
+

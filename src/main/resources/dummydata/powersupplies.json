@@ -1,0 +1,164 @@
+[
+  {
+    "name": "SilentiumPC Supremo FM2 750W Gold",
+    "manufacturer": "SilentiumPC",
+    "lowestPrice": 37800,
+    "averagePrice": 44500,
+    "powerSupplyType": "MODULAR",
+    "performanceWattage": 750,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "Seasonic FOCUS GX-650W Gold",
+    "manufacturer": "Seasonic",
+    "lowestPrice": 39500,
+    "averagePrice": 42000,
+    "powerSupplyType": "MODULAR",
+    "performanceWattage": 650,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "Corsair HX1200 1200W Platinum",
+    "manufacturer": "Corsair",
+    "lowestPrice": 87200,
+    "averagePrice": 95000,
+    "powerSupplyType": "MODULAR",
+    "performanceWattage": 1200,
+    "efficiency": "80 Plus Platinum"
+  },
+  {
+    "name": "ASUS ROG THOR 1200W 80+ Platinum",
+    "manufacturer": "Asus",
+    "lowestPrice": 131000,
+    "averagePrice": 145000,
+    "powerSupplyType": "MODULAR",
+    "performanceWattage": 1200,
+    "efficiency": "80 Plus Platinum"
+  },
+  {
+    "name": "GIGABYTE GP-P1000GM ",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 50900,
+    "averagePrice": 52700,
+    "powerSupplyType": "MODULAR",
+    "performanceWattage": 1000,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "Seasonic PRIME TX-750W",
+    "manufacturer": "Seasonic",
+    "lowestPrice": 87300,
+    "averagePrice": 93200,
+    "powerSupplyType": "MODULAR",
+    "performanceWattage": 750,
+    "efficiency": "80 Plus Titanium"
+  },
+  {
+    "name": "EVGA SuperNOVA 650 GQ 650W",
+    "manufacturer": "EVGA",
+    "lowestPrice": 30000,
+    "averagePrice": 33000,
+    "powerSupplyType": "SEMI_MODULAR",
+    "performanceWattage": 650,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "FSP Hydro PRO 700W Bronze ",
+    "manufacturer": "FSP",
+    "lowestPrice": 20700,
+    "averagePrice": 23500,
+    "powerSupplyType": "SEMI_MODULAR",
+    "performanceWattage": 700,
+    "efficiency": "80 Plus Bronze"
+  },
+  {
+    "name": "CHIEFTEC A-90 750W Gold",
+    "manufacturer": "CHIEFTEC",
+    "lowestPrice": 27500,
+    "averagePrice": 30200,
+    "powerSupplyType": "SEMI_MODULAR",
+    "performanceWattage": 750,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "be quiet! Pure Power 11 CM 600W",
+    "manufacturer": "be quiet!",
+    "lowestPrice": 32700,
+    "averagePrice": 35200,
+    "powerSupplyType": "SEMI_MODULAR",
+    "performanceWattage": 600,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "Seasonic GM-500 500W ",
+    "manufacturer": "Seasonic",
+    "lowestPrice": 27000,
+    "averagePrice": 28500,
+    "powerSupplyType": "SEMI_MODULAR",
+    "performanceWattage": 500,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "Thermaltake Smart BM2 650W",
+    "manufacturer": "Thermaltake",
+    "lowestPrice": 24500,
+    "averagePrice": 26700,
+    "powerSupplyType": "SEMI_MODULAR",
+    "performanceWattage": 650,
+    "efficiency": "80 Plus Bronze"
+  },
+  {
+    "name": "Cooler Master Elite V3 600W",
+    "manufacturer": "Cooler Master",
+    "lowestPrice": 16500,
+    "averagePrice": 19000,
+    "powerSupplyType": "FIXED",
+    "performanceWattage": 600,
+    "efficiency": "80 Plus Bronze"
+  },
+  {
+    "name": "FSP Hydro PRO 600W",
+    "manufacturer": "FSP",
+    "lowestPrice": 14100,
+    "averagePrice": 16500,
+    "powerSupplyType": "FIXED",
+    "performanceWattage": 600,
+    "efficiency": "80 Plus Bronze"
+  },
+  {
+    "name": "EVGA PS-700W",
+    "manufacturer": "EVGA",
+    "lowestPrice": 17600,
+    "averagePrice": 20000,
+    "powerSupplyType": "FIXED",
+    "performanceWattage": 700,
+    "efficiency": "80 Plus Bronze"
+  },
+  {
+    "name": "SilentiumPC Supremo L2 650W Gold",
+    "manufacturer": "SilentiumPC",
+    "lowestPrice": 32300,
+    "averagePrice": 35800,
+    "powerSupplyType": "FIXED",
+    "performanceWattage": 650,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "EVGA 700 GD",
+    "manufacturer": "EVGA",
+    "lowestPrice": 28800,
+    "averagePrice": 31500,
+    "powerSupplyType": "FIXED",
+    "performanceWattage": 700,
+    "efficiency": "80 Plus Gold"
+  },
+  {
+    "name": "Lenovo 750W Platinum",
+    "manufacturer": "Lenovo",
+    "lowestPrice": 62300,
+    "averagePrice": 68500,
+    "powerSupplyType": "FIXED",
+    "performanceWattage": 750,
+    "efficiency": "80 Plus Platinum"
+  }
+]

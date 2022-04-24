@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Kingston A400",
+    "manufacturer": "Kingston",
+    "lowestPrice": 11000,
+    "averagePrice": 12300,
+    "storageType": "SSD",
+    "capacity": 240,
+    "socket": "SATA"
+  },
+  {
+    "name": "Kingston A2000",
+    "manufacturer": "Kingston",
+    "lowestPrice": 12200,
+    "averagePrice": 16800,
+    "storageType": "SSD",
+    "capacity": 240,
+    "socket": "M.2"
+  },
+  {
+    "name": "Samsung 980 PRO",
+    "manufacturer": "Samsung",
+    "lowestPrice": 23300,
+    "averagePrice": 26200,
+    "storageType": "SSD",
+    "capacity": 250,
+    "socket": "M.2"
+  },
+  {
+    "name": "Samsung 970 PRO",
+    "manufacturer": "Samsung",
+    "lowestPrice": 19200,
+    "averagePrice": 23100,
+    "storageType": "SSD",
+    "capacity": 250,
+    "socket": "M.2"
+  },
+  {
+    "name": "Western Digital Blue 3D NAND 2.5",
+    "manufacturer": "Western Digital",
+    "lowestPrice": 16000,
+    "averagePrice": 18700,
+    "storageType": "SSD",
+    "capacity": 250,
+    "socket": "SATA"
+  },
+  {
+    "name": "Crucial MX500 2.5",
+    "manufacturer": "Crucial",
+    "lowestPrice": 13800,
+    "averagePrice": 16400,
+    "storageType": "SSD",
+    "capacity": 250,
+    "socket": "SATA"
+  },
+  {
+    "name": "Samsung 870 EVO",
+    "manufacturer": "Samsung",
+    "lowestPrice": 26000,
+    "averagePrice": 31600,
+    "storageType": "SSD",
+    "capacity": 500,
+    "socket": "SATA"
+  },
+  {
+    "name": "Samsung 980 ",
+    "manufacturer": "Samsung",
+    "lowestPrice": 22300,
+    "averagePrice": 27500,
+    "storageType": "SSD",
+    "capacity": 500,
+    "socket": "M.2"
+  },
+  {
+    "name": "Western Digital Blue 3D NAND 2.5",
+    "manufacturer": "Western Digital",
+    "lowestPrice": 22500,
+    "averagePrice": 25700,
+    "storageType": "SSD",
+    "capacity": 500,
+    "socket": "SATA"
+  },
+  {
+    "name": "Crucial P2 500GB",
+    "manufacturer": "Crucial",
+    "lowestPrice": 19300,
+    "averagePrice": 22800,
+    "storageType": "SSD",
+    "capacity": 500,
+    "socket": "M.2"
+  },
+  {
+    "name": "Samsung 970 EVO Plus 1TB M.2",
+    "manufacturer": "Samsung",
+    "lowestPrice": 43500,
+    "averagePrice": 48100,
+    "storageType": "SSD",
+    "capacity": 1000,
+    "socket": "M.2"
+  },
+  {
+    "name": "Samsung 980 1TB M.2",
+    "manufacturer": "Samsung",
+    "lowestPrice": 39000,
+    "averagePrice": 42800,
+    "storageType": "SSD",
+    "capacity": 1000,
+    "socket": "M.2"
+  },
+  {
+    "name": "GIGABYTE AOURUS Gen4 7000s 1TB",
+    "manufacturer": "Gigabyte",
+    "lowestPrice": 60200,
+    "averagePrice": 68300,
+    "storageType": "SSD",
+    "capacity": 1000,
+    "socket": "M.2"
+  },
+  {
+    "name": "Crucial BX500 1TB SATA3",
+    "manufacturer": "Crucial",
+    "lowestPrice": 30700,
+    "averagePrice": 35200,
+    "storageType": "SSD",
+    "capacity": 1000,
+    "socket": "SATA"
+  },
+  {
+    "name": "Western Digital Blue NAND 1TB SATA3",
+    "manufacturer": "Western Digital",
+    "lowestPrice": 43500,
+    "averagePrice": 48100,
+    "storageType": "SSD",
+    "capacity": 1000,
+    "socket": "SATA"
+  },
+  {
+    "name": "Samsung 870 QVO Slim 2TB SATA3 ",
+    "manufacturer": "Samsung",
+    "lowestPrice": 65000,
+    "averagePrice": 72100,
+    "storageType": "SSD",
+    "capacity": 2000,
+    "socket": "SATA"
+  },
+  {
+    "name": "ADATA XPG SX8200 PRO 2TB",
+    "manufacturer": "ADATA",
+    "lowestPrice": 68300,
+    "averagePrice": 77500,
+    "storageType": "SSD",
+    "capacity": 2000,
+    "socket": "SATA"
+  },
+  {
+    "name": "Kingston NV1 2TB",
+    "manufacturer": "Kingston",
+    "lowestPrice": 56100,
+    "averagePrice": 63200,
+    "storageType": "SSD",
+    "capacity": 2000,
+    "socket": "M.2"
+  },
+  {
+    "name": "Samsung 980 PRO 2TB M.2",
+    "manufacturer": "Samsung",
+    "lowestPrice": 117800,
+    "averagePrice": 135200,
+    "storageType": "SSD",
+    "capacity": 2000,
+    "socket": "M.2"
+  },
+  {
+    "name": "Western Digital Blue 3.5 1TB SATA3",
+    "manufacturer": "Western Digital",
+    "lowestPrice": 12100,
+    "averagePrice": 16500,
+    "storageType": "HDD",
+    "capacity": 1000,
+    "socket": "SATA3"
+  },
+  {
+    "name": "Western Digital Blue 3.5 2TB SATA3",
+    "manufacturer": "Western Digital",
+    "lowestPrice": 17500,
+    "averagePrice": 21600,
+    "storageType": "HDD",
+    "capacity": 2000,
+    "socket": "SATA3"
+  },
+  {
+    "name": "Western Digital WD Purple 3.5 4TB 5400rpm",
+    "manufacturer": "Western Digital",
+    "lowestPrice": 28500,
+    "averagePrice": 32200,
+    "storageType": "HDD",
+    "capacity": 4000,
+    "socket": "SATA3"
+  },
+  {
+    "name": "Toshiba P300 3.5 4TB SATA3",
+    "manufacturer": "Toshiba",
+    "lowestPrice": 26500,
+    "averagePrice": 48100,
+    "storageType": "HDD",
+    "capacity": 4000,
+    "socket": "SATA3"
+  },
+  {
+    "name": "Seagate Barracuda Pro 2.5 1TB",
+    "manufacturer": "Seagate",
+    "lowestPrice": 23400,
+    "averagePrice": 26100,
+    "storageType": "HDD",
+    "capacity": 1000,
+    "socket": "SATA3"
+  }
+]

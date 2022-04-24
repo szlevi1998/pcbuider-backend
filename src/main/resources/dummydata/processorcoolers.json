@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Cooler Master Hyper TX3 EVO",
+    "manufacturer": "Cooler Master",
+    "lowestPrice": 8000,
+    "averagePrice": 8800,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 2200
+  },
+  {
+    "name": "be quiet! DARK ROCK PRO 4",
+    "manufacturer": "be quiet!",
+    "lowestPrice": 29300,
+    "averagePrice": 33700,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 1500
+  },
+  {
+    "name": "Noctua Chromax NH-D15",
+    "manufacturer": "Noctua",
+    "lowestPrice": 44500,
+    "averagePrice": 50000,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 1500
+  },
+  {
+    "name": "ARCTIC Freezer 34 eSports DUO",
+    "manufacturer": "ARCTIC",
+    "lowestPrice": 15200,
+    "averagePrice": 17800,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 2100
+  },
+  {
+    "name": "be quiet! Pure Rock Slim 2",
+    "manufacturer": "be quiet!",
+    "lowestPrice": 8300,
+    "averagePrice": 10500,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 2000
+  },
+  {
+    "name": "Scythe Mugen 5 Rev B",
+    "manufacturer": "Scythe",
+    "lowestPrice": 19500,
+    "averagePrice": 25000,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 1200
+  },
+  {
+    "name": "ARCTIC Freezer i35 CO",
+    "manufacturer": "ARCTIC",
+    "lowestPrice": 12800,
+    "averagePrice": 15200,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 1800
+  },
+  {
+    "name": "Deepcool AK620",
+    "manufacturer": "Deepcool",
+    "lowestPrice": 25800,
+    "averagePrice": 29300,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 1850
+  },
+  {
+    "name": "Alpenföhn Brocken ECO Advanced",
+    "manufacturer": "Alpenföhn",
+    "lowestPrice": 12800,
+    "averagePrice": 14800,
+    "cpuCoolingType": "AIR_COOLING",
+    "maxRPM": 1600
+  },
+  {
+    "name": "ASUS ROG STRIX LC 360 RGB",
+    "manufacturer": "ASUS",
+    "lowestPrice": 56800,
+    "averagePrice": 70500,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 2500
+  },
+  {
+    "name": "NZXT Kraken X63 280",
+    "manufacturer": "NZXT",
+    "lowestPrice": 49300,
+    "averagePrice": 57500,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 1800
+  },
+  {
+    "name": "Lian Li Galahad AIO 240",
+    "manufacturer": "Lian Li",
+    "lowestPrice": 44300,
+    "averagePrice": 49700,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 1900
+  },
+  {
+    "name": "ARCTIC Liquid Freezer II 360",
+    "manufacturer": "ARCTIC",
+    "lowestPrice": 37800,
+    "averagePrice": 42300,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 1800
+  },
+  {
+    "name": "GIGABYTE Aorus Waterforce X 240",
+    "manufacturer": "GIGABYTE",
+    "lowestPrice": 54000,
+    "averagePrice": 60800,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 2500
+  },
+  {
+    "name": "MSI MAG CORELIQUID 240",
+    "manufacturer": "MSI",
+    "lowestPrice": 32000,
+    "averagePrice": 36100,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 2000
+  },
+  {
+    "name": "Corsair iCUE H150i ELITE 360",
+    "manufacturer": "Corsair",
+    "lowestPrice": 69500,
+    "averagePrice": 75500,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 2400
+  },
+  {
+    "name": "ARCTIC Liquid Freezer II 420",
+    "manufacturer": "ARCTIC",
+    "lowestPrice": 42000,
+    "averagePrice": 48000,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 1700
+  },
+  {
+    "name": "Corsair H115i RGB PLATINUM 280",
+    "manufacturer": "Corsair",
+    "lowestPrice": 58000,
+    "averagePrice": 58000,
+    "cpuCoolingType": "WATER_COOLING",
+    "maxRPM": 2400
+  }
+]
